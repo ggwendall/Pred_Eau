@@ -1,5 +1,8 @@
 ![water](https://github.com/ggwendall/Pred_Eau/assets/48108275/56f4545e-3d16-4034-9c13-d22321205ea4)
 
+
+![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
+
 # Projet d'Analyse et de Modélisation de Données
 
 Ce document constitue le fichier README pour le projet d'analyse et de modélisation de données. L'objectif principal de ce projet est d'explorer un ensemble d'enregistrements historiques des années 2018, 2019 et 2020, d'effectuer une analyse exploratoire des données (EDA), de sélectionner les caractéristiques (features) les plus pertinentes, et enfin, de développer un modèle de classification performant en utilisant des techniques d'intelligence artificielle.
