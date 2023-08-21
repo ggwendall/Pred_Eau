@@ -49,8 +49,6 @@ Les étapes principales de ce projet sont les suivantes :
 ## Auteurs
 Quenet Gwendal
 
-![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
-
 <div align=center>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
